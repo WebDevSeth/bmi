@@ -1,9 +1,42 @@
+* {
+    font-family: sans-serif;
+    font-size: 15px;
+    color:black;
+}
+
+body {
+    background-image: url(/pedro-araujo-PDjYClxmnyk-unsplash.jpg);
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+
+#calc {
+    color: rgb(105, 105, 105);
+}
+
+
+
+
+.col-6{
+    width: 0%;
+}
+
+
 .container {
     height: 450px;
-    width: 500px;
-    background-color: whitesmoke;
+    width: 350px;
+    background-color:whitesmoke;
     margin: 0;
     border: 3px solid black;
     display: grid;
+
     
+}
+
+.heading {
+    padding-top: 25px;
+    text-align: center;
+    font-size: 95px;
+    
+
 }
